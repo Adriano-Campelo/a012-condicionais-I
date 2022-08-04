@@ -2,7 +2,7 @@ let idade;
 let isMaiorIdade;
 let isCursandoOutraFaculdade;
 
-if(){
+if(idade>=18){
 
 }else{
 	
